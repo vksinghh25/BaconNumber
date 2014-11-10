@@ -2,6 +2,7 @@ public class ActorNode {
 
     String name;
 
+    // constructor that takes the Actor Name
     ActorNode(String name) {
         this.name = name;
     }
