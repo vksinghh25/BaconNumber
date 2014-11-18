@@ -15,13 +15,7 @@ public class Movie {
 
     public void addCastMember(String name) {
         cast.add(name);
-	// random comment into Movie.java
-<<<<<<< HEAD
-	// another random comment into Movie.java
-=======
-	// random comment into branch Movie.java
->>>>>>> TestingBranch
-    }
+	// random comment into Movie.java    }
 
     @Override
     public String toString() {
