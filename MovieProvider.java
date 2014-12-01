@@ -1,5 +1,6 @@
 import java.util.Collection;
 
 public interface MovieProvider {
-    public Collection<Movie> getAllMovies();
+   	// test comment 
+	public Collection<Movie> getAllMovies();
 }
